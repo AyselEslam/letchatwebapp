@@ -1,0 +1,38 @@
+.login_body
+{
+    background: radial-gradient(circle, rgba(231,71,251,1) 0%, rgba(255,190,236,1) 27%, rgba(255,174,252,1) 59%, rgba(0,212,255,1) 100%);
+
+    background-size: cover;
+}
+
+#login_button, #add_room_button
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(231,71,251);
+background: radial-gradient(circle, rgba(231,71,251,1) 0%, rgba(255,190,236,1) 27%, rgba(255,174,252,1) 59%, rgba(0,212,255,1) 100%);
+    border-radius: 10px;
+    border-color: whitesmoke;
+    width: 300px;
+    height: 70;
+    border-style: solid;
+    border-width: 3px;
+}
+
+#login_div
+{
+    margin-top: 30px;
+    border-radius: 5px;
+    float: none;
+    background-color: white;
+}
+
+#room_name_input
+{
+    width:800px;
+}
+
+#Logout_button
+{
+    margin-left: 20px;
+}
